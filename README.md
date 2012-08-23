@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/austinhallock/clay-node.png)](http://travis-ci.org/austinhallock/clay-node)
 # clay-encryption
 
 [JWT(JSON Web Token)](http://self-issued.info/docs/draft-jones-json-web-token.html) encode and decode module for node.js.
